@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.langrallconsulting.flow_transcribe</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/open</string>
+		<string>-W</string>
+		<string>/Users/charlielangrall/Desktop/Technical/Programming/python/Projects/flow-env/dist/flow_transcribe.app</string>
+		<string>--args</string>
+		<string>-d</string>
+		<string>On</string>
+	</array>
+	<key>StartInterval</key>
+	<integer>60</integer>
+</dict>
+</plist>
